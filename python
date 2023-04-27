@@ -1,0 +1,7 @@
+print(" -----------------")
+print("    CALCULADORA"   )
+print(" -----------------")
+
+exmat = input("Digite qualquer expressão matemática: ")
+resultado = eval(exmat)
+print("O resultado da equação é igual a: ", resultado)
